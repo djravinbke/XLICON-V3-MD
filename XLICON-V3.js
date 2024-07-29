@@ -26,7 +26,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//WhatsApp: +254708430362
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
@@ -640,7 +640,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
       },
       message: {
         contactMessage: {
-          displayName: ownername,
+          displayName: ownername, DJ RAVIN B 
           vcard: `BEGIN:VCARD\nVERSION:3.0\nN:XL;${ownername},;;;\nFN:${ownername}\nitem1.TEL;waid=916909137213:916909137213\nitem1.X-ABLabel:Mobile\nEND:VCARD`,
           jpegThumbnail: thumb,
           thumbnail: thumb,
@@ -797,7 +797,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
             bot: { nick: XliconBotInc.getName(botNumber), alias: botname },
             owner: {
               nick: XliconBotInc.getName(
-                global.ownernumber + "@s.whatsapp.net"
+                global.ownernumber +254708430362 "@s.whatsapp.net"
               ),
               alias: global.ownernumber,
             },
