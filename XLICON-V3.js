@@ -593,7 +593,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
           h: wm,
           seconds: "359996400",
           gifPlayback: "true",
-          caption: ownername,
+          caption: ownername,dj ravin b
           jpegThumbnail: thumb,
         },
       },
@@ -641,7 +641,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
       message: {
         contactMessage: {
           displayName: ownername,
-          vcard: `BEGIN:VCARD\nVERSION:3.0\nN:XL;${ownername},;;;\nFN:${ownername}\nitem1.TEL;waid=916909137213:916909137213\nitem1.X-ABLabel:Mobile\nEND:VCARD`,
+          vcard: `BEGIN:VCARD\nVERSION:3.0\nN:XL;${ownername},;;;\nFN:${ownername}\nitem1.TEL;waid=254708430362:916909137213\nitem1.X-ABLabel:Mobile\nEND:VCARD`,
           jpegThumbnail: thumb,
           thumbnail: thumb,
           sendEphemeral: true,
